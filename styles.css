@@ -1,4 +1,4 @@
-/* Lightning Fast Finance — dark premium theme */
+/* Lightning Speed Services Pty Ltd — dark premium theme */
 :root{
   --bg:#0b1020;
   --bg-2:#101731;
@@ -220,3 +220,7 @@ footer{padding:64px 0 40px;border-top:1px solid rgba(255,255,255,.07);background
   .nav-toggle{display:block}
   .grid-3,.why,.steps,.team,.frow{grid-template-columns:1fr}
 }
+
+.logo span{line-height:1.15}.logo small{display:block;font-size:10px;letter-spacing:3px;font-weight:600;color:var(--muted);margin-top:5px}.foot a.logo{display:flex;color:var(--text)}.rv{opacity:1;transform:none}section{scroll-margin-top:90px}@media(min-width:681px) and (max-width:1050px){.nav-links{gap:13px;font-size:13px}.nav-inner{padding:0 16px}.logo{font-size:13px}}@media(max-width:400px){.logo{font-size:12px}.logo small{font-size:9px}.foot{grid-template-columns:1fr}}
+
+.logo small{display:inline;font-size:inherit;letter-spacing:inherit;font-weight:inherit;color:inherit;margin:0}.logo small:before{content:" "}.logo{font-size:14px}@media(max-width:1050px){.nav-links{gap:12px;font-size:12px}.logo{font-size:12px}}@media(max-width:800px){.nav-links{display:none}.nav-links.open{display:flex;position:absolute;top:72px;left:0;right:0;flex-direction:column;background:var(--bg);padding:24px}.nav-toggle{display:block}}@media(max-width:400px){.logo{font-size:10px;gap:6px}.logo .bolt{width:22px;height:22px}}
